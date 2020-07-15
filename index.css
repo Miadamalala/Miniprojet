@@ -1,0 +1,72 @@
+.header, a:hover 
+{
+	text-align: right; 
+	text-decoration: none;
+	color: green ;
+	
+}
+#list
+{
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	margin-right: 30px ;
+}
+
+#Gmail,#Images
+{
+	margin-top: -5px;
+	padding: 10px;
+}
+#carre
+{
+	width: 30px;
+	height: 30px
+	margin-top: 10px;
+	margin-left: 1px;
+}
+#Connexion
+{
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+.recherche 
+{
+	text-align: center;
+	
+}
+input
+{
+	border-radius: 60px ;
+	width: 500px ;
+	height: 40px ;
+
+}
+.loupe
+{
+	margin-right: 450px; 
+	margin-top : -36px ;
+}
+.valide
+{
+	margin: 10px;
+	padding: 10px ; 
+}
+.micro 
+{
+	margin-top: -40px ; 
+	margin-left: 425px;
+}
+
+#lang
+{
+	font-size: 15px;
+	margin-top: auto;
+}
+table
+{
+	margin-top: 145px;
+}
+
